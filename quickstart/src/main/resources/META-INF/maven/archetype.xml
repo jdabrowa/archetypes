@@ -7,6 +7,10 @@
         <source>src/main/java/ApplicationMain.java</source>
     </sources>
 
+    <testSources>
+        <source>src/test/java/ApplicationMainTest.java</source>
+    </testSources>
+
     <resources>
         <resource>src/main/resources/configuration.properties</resource>
         <resource>.gitignore</resource>
